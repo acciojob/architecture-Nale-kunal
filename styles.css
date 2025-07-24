@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+img{
+	width:200px;
+}
+#imageContainer{
+	width:1100px;
+}
